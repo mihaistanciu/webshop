@@ -1,0 +1,1 @@
+<p>Copyright simple@webshop.com</p>
